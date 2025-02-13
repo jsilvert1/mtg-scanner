@@ -17,7 +17,7 @@ Magic: The Gathering card scanner using computer vision for collection managemen
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/mtg-scanner.git
+git clone https://github.com/jsilvert1/mtg-scanner.git
 cd mtg-scanner
 pip install -e .
 ```
