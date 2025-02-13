@@ -54,4 +54,4 @@ pytest
 ```
 
 ## License
-MIT
+GPL v3
